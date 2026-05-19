@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://central-market-san-mateo.vercel.app/sitemap.xml
